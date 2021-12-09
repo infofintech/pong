@@ -1,2 +1,2 @@
-# pong
+# Pong
 A simple Pong online game.

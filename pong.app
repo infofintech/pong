@@ -1,0 +1,1 @@
+Pong=||=pong.icon.png=||=window.location.href='pong.htm';
