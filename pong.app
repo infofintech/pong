@@ -1,1 +1,1 @@
-Pong=||=pong.icon.png=||=window.location.href='pong.htm';
+Pong|[1]|pong.icon.png|[1]|window.location.href='pong.htm';
