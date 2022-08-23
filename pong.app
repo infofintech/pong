@@ -1,1 +1,1 @@
-Pong|[1]|sys.pong.png|[1]|window.location.href='pong.htm';
+title|[>]|Pong|[1]|favicon|[>]|sys.pong.png|[1]|run|[>]|window.location.href='pong.htm';
